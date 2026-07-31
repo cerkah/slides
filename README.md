@@ -10,4 +10,4 @@
 
 [2022 Slide Decks](https://github.com/cerkah/slides/tree/d0fc0faa250f8e909702e1953633157059abe23f/2022)
 
-[2015 - 2021 Slide Decks (Slideshare)](https://www.slideshare.net/cerkah)
+[2015 - 2021 Slide Decks (slideshare.net)](https://www.slideshare.net/cerkah)
