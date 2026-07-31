@@ -7,3 +7,5 @@
 [2024 Slide Decks](./2024)
 
 [2023 Slide Decks](./2023)
+
+[2022 Slide Decks](./2022)
