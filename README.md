@@ -4,6 +4,6 @@
 
 [2025 Slide Decks](./2025)
 
-[2024 Slide Decks](https://github.com/cerkah/slides/2024)
+[2024 Slide Decks](./2024)
 
-[2023 Slide Decks](https://github.com/cerkah/slides/2023)
+[2023 Slide Decks](./2023)
