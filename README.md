@@ -1,5 +1,7 @@
 ![The InfoSec Rock Star](https://raw.githubusercontent.com/cerkah/assets/refs/heads/main/images/Matt-Scheurer-RS_400x400.jpg)<br>
-## Matt Scheurer (DFIRMatt) Slide Decks (PDF)
+## Matt Scheurer (DFIRMatt) Slide Decks (PDF)<br>
+[Upcoming Speaking Enagements](https://docs.google.com/document/d/1UKDIbVKW16iiUBM5YCKiX38tgaIkchNL62gSgTzp5To/edit?usp=sharing) <br>
+
 [2026 Slide Decks](https://github.com/cerkah/slides/tree/main/2026)
 
 [2025 Slide Decks](https://github.com/cerkah/slides/tree/main/2025)
